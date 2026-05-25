@@ -33,8 +33,7 @@ The four menu options produce:
 - 2D intensity map for a circular aperture (Airy-like rings)
 - 2D Monte Carlo estimate of the same circular pattern for comparison
 
-[Add a screenshot of the circular diffraction pattern here — the Airy rings are visually striking.]
-
+![Fresnel diffraction pattern through a circular aperture, showing the characteristic Airy disc with concentric secondary rings](figures/fresnel_circular_diffraction.png)
 ## How to Run
 
 ```bash
